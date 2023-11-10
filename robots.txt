@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://get-through.github.io/sitemap.xml
+Sitemap: https://lujingx.github.io/sitemap.xml
