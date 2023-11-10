@@ -4,7 +4,7 @@ title: Image Segmentation with extension on MAE and SAM
 description: Supervised by Prof. Yibin Xie, Cedars-Sinai, UCLA (remote), 2023.06 -
 img: assets/img/SAM_model.jpg
 importance: 1
-category: work
+category: research
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 

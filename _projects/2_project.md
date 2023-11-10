@@ -4,7 +4,7 @@ title: Multislice phase reconstruction based on BRIEF and NeRF
 description: Supervised by Prof. Yi Xue, UC Davis (remote), 2023.06 -
 img: assets/img/RI_model.jpg
 importance: 2
-category: work
+category: research
 giscus_comments: true
 ---
 

@@ -5,7 +5,7 @@ description: Supervised by Prof. He Sun, Peking University, 2022.09 - 2023.06
 img: assets/img/SIM_model.jpg
 # redirect: https://unsplash.com
 importance: 3
-category: work
+category: research
 ---
 
 **Research Focus**: Using learning approach to perform SIM reconstruction.
