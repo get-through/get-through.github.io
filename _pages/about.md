@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! This is Lujing Xing, a senior student at Peking University, majoring in physics and double majoring in CS. I'm currently looking for a Ph.D. position in Biomedical Engineering, and I'm interested in computational imaging and medical image analysis. I'm interested in multi-modalities, and is open to learning any new modality, and apply deep learning method to enhance its traditional weakness.
 
-Research experiences are presented in [project](/lujingx.github.io/projects/), and my cv is at [here](/lujingx.github.io/cv/)
+Research experiences are presented in [project](projects/), and my cv is at [here](cv/)
