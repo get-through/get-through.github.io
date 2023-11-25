@@ -5,7 +5,7 @@ description: Supervised by Prof. Yi Xue, UC Davis (remote), 2023.06 -
 img: assets/img/RI_model.jpg
 importance: 2
 category: research
-giscus_comments: true
+# giscus_comments: true
 ---
 
 **Research Focus**: By using IDT modality, recover better 3D RI using a deep learning framework. 
