@@ -28,7 +28,7 @@ giscus_comments: true
 
 **Demo of Results**:
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/intensity.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
@@ -38,7 +38,7 @@ giscus_comments: true
 </div>
 
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/RI.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
